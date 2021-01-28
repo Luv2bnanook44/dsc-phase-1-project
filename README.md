@@ -1,65 +1,63 @@
-# Phase 1 Project
+Title
+Authors: Student1, Student2
 
-You've made it all the way through the first phase of this course - take a minute to celebrate your awesomeness!
+Overview
+A one-paragraph overview of the project, including the business problem, data, methods, results and recommendations.
 
-![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project/master/awesome.gif)
+Business Problem
+Summary of the business problem you are trying to solve, and the data questions that you plan to answer in order to solve them.
 
-Now you will put your new skills to use with a large end-of-Phase project! This project should take 20 to 30 hours to complete.
+Questions to consider:
 
-## Project Overview
+What are the business's pain points related to this project?
+How did you pick the data analysis question(s) that you did?
+Why are these questions important from a business perspective?
+Data
+Describe the data being used for this project.
 
-For this project, you will use exploratory data analysis to generate insights for a business stakeholder.
+Questions to consider:
 
-### Business Problem
+Where did the data come from, and how do they relate to the data analysis questions?
+What do the data represent? Who is in the sample and what variables are included?
+What is the target variable?
+What are the properties of the variables you intend to use?
+Methods
+Describe the process for analyzing or modeling the data. For Phase 1, this will be descriptive analysis.
 
-Microsoft sees all the big companies creating original video content and they want to get in on the fun. They have decided to create a new movie studio, but they don’t know anything about creating movies. You are charged with exploring what types of films are currently doing the best at the box office. You must then translate those findings into actionable insights that the head of Microsoft's new movie studio can use to help decide what type of films to create.
+Questions to consider:
 
-### The Data
+How did you prepare, analyze or model the data?
+Why is this approach appropriate given the data and the business problem?
+Results
+Present your key results. For Phase 1, this will be findings from your descriptive analysis.
 
-In the folder `zippedData` are movie datasets from:
+Questions to consider:
 
-* [Box Office Mojo](https://www.boxofficemojo.com/)
-* [IMDB](https://www.imdb.com/)
-* [Rotten Tomatoes](https://www.rottentomatoes.com/)
-* [TheMovieDB](https://www.themoviedb.org/)
-* [The Numbers](https://www.the-numbers.com/)
+How do you interpret the results?
+How confident are you that your results would generalize beyond the data you have?
+Here is an example of how to embed images from your sub-folder:
 
-It is up to you to decide what data from this to use and how to use it. If you want to make this more challenging, you can scrape websites or make API calls to get additional data. If you are feeling overwhelmed or behind (e.g. struggled with the Phase 1 Code Challenge), we recommend you use only the following data files:
+Visual 1
+graph1
 
-* imdb.title.basics
-* imdb.title.ratings
-* bom.movie_gross
+Conclusions
+Provide your conclusions about the work you've done, including any limitations or next steps.
 
-## Deliverables
+Questions to consider:
 
-There are three deliverables for this project:
+What would you recommend the business do as a result of this work?
+What are some reasons why your analysis might not fully solve the business problem?
+What else could you do in the future to improve this project?
+For More Information
+Please review our full analysis in our Jupyter Notebook or our presentation.
 
-* A **GitHub repository**
-* A **Jupyter Notebook**
-* A **non-technical presentation**
+For any additional questions, please contact name & email, name & email
 
-Review the "Project Submission & Review" page in the "Milestones Instructions" topic for instructions on creating and submitting your deliverables. Refer to the rubric associated with this assignment for specifications describing high-quality deliverables.
+Repository Structure
+Describe the structure of your repository and its contents, for example:
 
-### Key Points
-
-* **Your analysis should yield three concrete business recommendations.** The ultimate purpose of exploratory analysis is not just to learn about the data, but to help an organization perform better. Explicitly relate your findings to business needs by recommending actions that you think the business (Microsoft) should take.
-
-* **Communicating about your work well is extremely important.** Your ability to provide value to an organization - or to land a job there - is directly reliant on your ability to communicate with them about what you have done and why it is valuable. Create a storyline your audience (the head of Microsoft's new movie studio) can follow by walking them through the steps of your process, highlighting the most important points and skipping over the rest.
-
-* **Use plenty of visualizations.** Visualizations are invaluable for exploring your data and making your findings accessible to a non-technical audience. Spotlight visuals in your presentation, but only ones that relate directly to your recommendations. Simple visuals are usually best (e.g. bar charts and line graphs), and don't forget to format them well (e.g. labels, titles).
-
-## Getting Started
-
-Please start by reviewing this assignment, the rubric at the bottom of it, and the "Project Submission & Review" page. If you have any questions, please ask your instructor ASAP.
-
-Next, we recommend you check out [the Phase 1 Project Templates and Examples repo](https://github.com/learn-co-curriculum/dsc-project-template) and use the MVP template for your project.
-
-Alternatively, you can fork [the Phase 1 Project Repository](https://github.com/learn-co-curriculum/dsc-phase-1-project), clone it locally, and work in the `student.ipynb` file. Make sure to also add and commit a PDF of your presentation to your repository with a file name of `presentation.pdf`.
-
-## Project Submission and Review
-
-Review the "Project Submission & Review" page in the "Milestones Instructions" topic to learn how to submit your project and how it will be reviewed. Your project must pass review for you to progress to the next Phase.
-
-## Summary
-
-This project will give you a valuable opportunity to develop your data science skills using real-world data. The end-of-phase projects are a critical part of the program because they give you a chance to bring together all the skills you've learned, apply them to realistic projects for a business stakeholder, practice communication skills, and get feedback to help you improve. You've got this!
+├── README.md                           <- The top-level README for reviewers of this project
+├── dsc-phase1-project-template.ipynb   <- Narrative documentation of analysis in Jupyter notebook
+├── DS_Project_Presentation.pdf         <- PDF version of project presentation
+├── data                                <- Both sourced externally and generated from code
+└── images                              <- Both sourced externally and generated from code
