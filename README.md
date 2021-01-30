@@ -18,9 +18,9 @@ Our insights were from the following categories:
 * *Budget vs Total Gross* 
     * Movies such as **Minions**, **Beauty and the Beast (1991)**, and **Rocky** had the greatest ROI.
 * *Genre vs Total Gross*
-    * The genres that produce the largest total gross (on average) are **Animation, Adventure, and Sci-Fi**.
+    * The genres that produce the largest total gross (on average) are **Animation, Adventure, and [Sci-Fi](https://www.denofgeek.com/movies/movies-of-the-decade-arrival-and-the-rise-in-popularity-of-smart-sci-fi/)**.
 * *Release Month vs Total Gross*
-    * On average, the number months have the highest average 
+    * On average, the summer months have the highest average total gross.
 * *Popularity vs Revenue vs Genre*
     * **Action** movies are the most frequently correlated to growth in popularity if there is a growth in revenue.
 * *Movie Runtime*
@@ -31,7 +31,9 @@ Our insights were from the following categories:
 
 ## Business Understanding
 
-Beginning a new branch of a business is not easy, especially in the entertainment sector. Using existing data from soon to be competitors, Microsoft has an opportunity to jump start their entry into moviemaking that was not available at the time that their competitors built their business. Thankfully Microsoft is one of the leaders of technology worldwide, distribution of the content will be relatively easy as Microsoft's in house Azure servers could be employed. This leads to the possibility of a Microsoft streaming service, which is the route that many competitors have taken. Amazon has Prime Video, Apple has Apple TV+, and Google owns YouTube, which is comparable but not the same class of product. This gives Microsoft a chance to learn from the mistakes of all those preceding it, and to create a product that improves upon all of those points. This notebook's purpose is to provide as much relevant data as is reasonable to aid Microsoft building a business plan towards producing successful movies.
+Beginning a new branch of a business is not easy, especially in the [entertainment sector](https://www.latimes.com/entertainment-arts/business/story/2020-12-09/everything-hollywood-lost-during-the-pandemic). Using existing data from soon to be competitors, Microsoft has an opportunity to jump start their entry into moviemaking that was not available at the time that their competitors built their business. Thankfully, Microsoft is one of the leaders of technology worldwide (has the second highest [brand value](https://www.visualcapitalist.com/the-worlds-tech-giants-ranked/) behind Apple; distribution of the content will be relatively easy as, for example, Microsoft's in house Azure servers could be employed. This leads to the possibility of a *Microsoft streaming service*, which is the route that many competitors have taken. Amazon has Prime Video, Apple has [Apple TV+](https://www.techradar.com/news/did-apple-tv-plus-secretly-become-one-of-the-best-streaming-services-in-2020), and Google owns YouTube, which is comparable but not the same class of product. This potentially gives Microsoft an advantage, to enter the rapidly changing market with substantial data to observe from its competitors.  
+
+This notebook's purpose is to provide as much relevant data as is reasonable to aid Microsoft building a business plan towards producing successful movies.
 
 ## Unpacking the Data
 
@@ -90,15 +92,15 @@ In general, movies should stay shorter than 120 minutes.
 * When choosing what types and how to go about making a given movie, use the movies with highest “bang for your buck” as a reference. (i.e Use "Despicable Me" as a reference for animated movies)
 
 
-
 # Next Steps
 
-* Reconciling the differences in results from different datasets -- the same graphs with different data sometimes revealed different results.
+* Reconciling the differences in results from different datasets -- the same graphs with different data sometimes revealed different results. (see Final-Notebook)
 * Scraping marketing data would've been useful for Microsoft to consider *how* they should divvy up their production budget.
 * Examining studio, producer, and actor popularity and their respective overall ROI.
     * Analyzing Box Office success for individual studios to determine which studios have been the most successful at dominating the market.
-* Developing a more detailed understanding of [movie market](https://bombreport.com/articles/when-does-a-movie-break-even-at-the-box-office/), especially in the context of the effect of **[streaming services](https://www.nytimes.com/2019/05/14/business/media/disney-hulu-comcast.html) 
+* Developing a more detailed understanding of [movie market](https://bombreport.com/articles/when-does-a-movie-break-even-at-the-box-office/), especially in the context of the effect of [streaming services](https://www.nytimes.com/2019/05/14/business/media/disney-hulu-comcast.html) on the market. 
 * Further understanding of the cash flow in the movie market (i.e how movies can make money for the studio during AND [after](https://www.boxofficemojo.com/chart/top_lifetime_gross/?area=XWW) the release of a film.
+* Potentially utilizing [Natural Language Processing](https://machinelearningmastery.com/natural-language-processing/) software/stretegies to collect data from any sources related to movies, to find patterns in movie reviews for films with varying profitability.
 
 ## For More Information
 Please review our full analysis in our Jupyter Notebook or our presentation.
