@@ -1,7 +1,7 @@
 # Movie Industry Trends¶
 
 <p>
-    <img src="images/aesthetics.jpg" width="220" height="240" />
+    <img src="images/aesthetics.jpg" width="400" height="300" />
 </p>
 
 *Sponsored by Microsoft* ;)
@@ -51,7 +51,7 @@ The Numbers is another alternate source, they aggregate data from the previous s
 We found that **Rocky, Beauty and the Beast (1991), and Minions** had the highest Total Gross to Budget Ratio. These three movies can serve as great references for the biggest movie successes (which Microsoft can aim to emulate).
 
 <p>
-    <img src="images/scattertop3.png" width="220" height="240" />
+    <img src="images/scattertop3.png" width="400" height="300" />
 </p>
 
 ## Comparing Genre and Total Gross
@@ -61,7 +61,7 @@ Using the top 5 Genres (determined by genres that had highest Average Total Gros
 2. **Despicable Me 2** is the #1 Animated movie in 2013 that has the maximum Total Gross to Budget ratio.
 
 <p>
-    <img src="images/linechartgenreyears.png" width="220" height="240" />
+    <img src="images/linechartgenreyears.png" width="400" height="300" />
 </p>
 
 
@@ -70,7 +70,7 @@ Using the top 5 Genres (determined by genres that had highest Average Total Gros
 The Summer Months have the highest average Total Gross.
 
 <p>
-    <img src="images/Averagegrosspergenre.png" width="220" height="240" />
+    <img src="images/Averagegrosspergenre.png" width="400" height="300" />
 </p>
 
 
@@ -78,7 +78,7 @@ The Summer Months have the highest average Total Gross.
 In general, movies should stay shorter than 120 minutes.
 
 <p>
-    <img src="images/runtime.png" width="220" height="240" />
+    <img src="images/runtime.png" width="400" height="300" />
 </p>
 
 # Business Recommendations
