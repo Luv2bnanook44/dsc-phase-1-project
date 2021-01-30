@@ -103,5 +103,5 @@ For any additional questions, please contact [Christos Maglaras](mailto:Christo1
 ### Repository Structure
 
 <p>
-    <img src="images/repo_structure.png" width="300" height="190" />
+    <img src="images/repo_structure.png" width="300" height="150" />
 </p>
