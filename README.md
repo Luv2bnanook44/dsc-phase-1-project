@@ -1,6 +1,6 @@
 # Movie Industry Trends¶
 
-![aesthetics.jpg](attachment:aesthetics.jpg)
+![aesthetics.jpg]("images/aesthetics.jpg")
 
 *Sponsored by Microsoft* ;)
 
@@ -48,7 +48,7 @@ The Numbers is another alternate source, they aggregate data from the previous s
 ## Comparing Budget and Total Gross
 We found that **Rocky, Beauty and the Beast (1991), and Minions** had the highest Total Gross to Budget Ratio. These three movies can serve as great references for the biggest movie successes (which Microsoft can aim to emulate).
 
-![Screen%20Shot%202021-01-29%20at%204.34.51%20PM.png](images/scattertop3.png)
+![Screen%20Shot%202021-01-29%20at%204.34.51%20PM.png]("images/scattertop3.png")
 
 ## Comparing Genre and Total Gross
 
@@ -56,19 +56,19 @@ Using the top 5 Genres (determined by genres that had highest Average Total Gros
 1. **The Hunger Games: Catching Fire** is the #1 Sci-Fi movie in 2013 that has the maximum Total Gross to Budget ratio.
 2. **Despicable Me 2** is the #1 Animated movie in 2013 that has the maximum Total Gross to Budget ratio.
 
-![Screen%20Shot%202021-01-29%20at%207.16.48%20PM.png](images/linechartgenreyears.png)
+![Screen%20Shot%202021-01-29%20at%207.16.48%20PM.png]("images/linechartgenreyears.png")
 
 ## Comparing Release Month vs. Total Gross
 
 The Summer Months have the highest average Total Gross.
 
-![Screen%20Shot%202021-01-29%20at%207.21.44%20PM.png](images/Averagegrosspergenre.png)
+![Screen%20Shot%202021-01-29%20at%207.21.44%20PM.png]("images/Averagegrosspergenre.png")
 
 
 ## Runtime Recommendations
 In general, movies should stay shorter than 120 minutes.
 
-![Screen%20Shot%202021-01-29%20at%207.24.27%20PM.png](images/runtime.png)
+![Screen%20Shot%202021-01-29%20at%207.24.27%20PM.png]("images/runtime.png")
 
 # Business Recommendations
 
@@ -90,11 +90,5 @@ Please review our full analysis in our Jupyter Notebook or our presentation.
 For any additional questions, please contact [Christos Maglaras](mailto:Christo111M@gmail.com) and [Jamie Dowat](mailto:jamie_dowat44@yahoo.com)
 
 ### Repository Structure
-.
-├── data  
-├── notebooks
-│   ├── Jamie-notebook.ipynb
-│   └── Christos-notebook.ipynb
-├── Final-Notebook.ipynb
-├── presentation.pdf
-└── images
+
+![repo-struct]("images/repo_structure.png")
