@@ -1,6 +1,8 @@
 # Movie Industry Trends¶
 
-![aesthetics.jpg]("images/aesthetics.jpg")
+<p>
+    <img src="images/aesthetics.jpg" width="220" height="240" />
+</p>
 
 *Sponsored by Microsoft* ;)
 
@@ -48,7 +50,9 @@ The Numbers is another alternate source, they aggregate data from the previous s
 ## Comparing Budget and Total Gross
 We found that **Rocky, Beauty and the Beast (1991), and Minions** had the highest Total Gross to Budget Ratio. These three movies can serve as great references for the biggest movie successes (which Microsoft can aim to emulate).
 
-![Screen%20Shot%202021-01-29%20at%204.34.51%20PM.png]("images/scattertop3.png")
+<p>
+    <img src="images/scattertop3.png" width="220" height="240" />
+</p>
 
 ## Comparing Genre and Total Gross
 
@@ -56,19 +60,26 @@ Using the top 5 Genres (determined by genres that had highest Average Total Gros
 1. **The Hunger Games: Catching Fire** is the #1 Sci-Fi movie in 2013 that has the maximum Total Gross to Budget ratio.
 2. **Despicable Me 2** is the #1 Animated movie in 2013 that has the maximum Total Gross to Budget ratio.
 
-![Screen%20Shot%202021-01-29%20at%207.16.48%20PM.png]("images/linechartgenreyears.png")
+<p>
+    <img src="images/linechartgenreyears.png" width="220" height="240" />
+</p>
+
 
 ## Comparing Release Month vs. Total Gross
 
 The Summer Months have the highest average Total Gross.
 
-![Screen%20Shot%202021-01-29%20at%207.21.44%20PM.png]("images/Averagegrosspergenre.png")
+<p>
+    <img src="images/Averagegrosspergenre.png" width="220" height="240" />
+</p>
 
 
 ## Runtime Recommendations
 In general, movies should stay shorter than 120 minutes.
 
-![Screen%20Shot%202021-01-29%20at%207.24.27%20PM.png]("images/runtime.png")
+<p>
+    <img src="images/runtime.png" width="220" height="240" />
+</p>
 
 # Business Recommendations
 
