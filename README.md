@@ -39,7 +39,7 @@ This notebook's purpose is to provide as much relevant data as is reasonable to 
 
 Data was analyzed from [IMDB](https://www.imdb.com/), [Box Office Mojo](https://www.boxofficemojo.com/), [The Movie Data Base](https://www.themoviedb.org/), [Kaggle](https://www.kaggle.com/rounakbanik/the-movies-dataset?select=movies_metadata.csv) and [The-Numbers.com](https://www.the-numbers.com/).
 
-IMDB, or The International Movie Data Base, is the internets primary source regarding general movie and television data. Since 1990 they have collected data from both professional and public sources, with much of their data being generated from their users activity.
+IMDB, or The International Movie Data Base, is the internet's primary source for general movie and television data. Since 1990, they have collected data from both professional and public sources, with much of their data being generated from their users' activity.
 
 Kaggle is known as one of the most popular websites hosting datasets for use by data scientists, they also create their own content but much of their content is user generated. The main source of data for the Kaggle dataset used in this notebook is IMDb.
 
@@ -49,7 +49,7 @@ The Numbers is another alternate source, they aggregate data from the previous s
 
 # Analysis
 
-*To clarify, 'Total Gross' is the total box office revenue domestically AND internationally.
+*To clarify, 'Total Gross' is the total box office revenue domestically AND internationally.*
 
 ## Comparing Budget and Total Gross
 We found that **Rocky, Beauty and the Beast (1991), and Minions** had the highest Total Gross to Budget Ratio. These three movies can serve as great references for the biggest movie successes (which Microsoft can aim to emulate).
