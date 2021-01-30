@@ -1,7 +1,7 @@
 # Movie Industry Trends¶
 
 <p>
-    <img src="images/aesthetics.jpg" width="500" height="300" />
+    <img src="images/aesthetics.jpg" width="600" height="300" />
 </p>
 
 *Sponsored by Microsoft* ;)
