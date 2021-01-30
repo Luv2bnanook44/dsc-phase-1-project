@@ -12,16 +12,18 @@
 
 In light of Microsoft's desire to expand their enterprise into the movie sector, we have analyzed various aspects of movie data to help develop some insights to help maximize Microsoft's ROI for their potential startup. 
 
-Since we are both relatively unfamiliar with the business end of the industry, supplementary research on the working of the industry as a whole were considered to help drive and focus our analysis. Access sources HERE.
+Since we are both relatively unfamiliar with the business end of the industry, supplementary research on the working of the industry as a whole were considered to help drive and focus our analysis. (See hyperlinks in *Next Steps*)
 
 Our insights were from the following categories:
-* Budget vs Total Gross 
+* *Budget vs Total Gross* 
     * Movies such as **Minions**, **Beauty and the Beast (1991)**, and **Rocky** had the greatest ROI.
-* Genre vs Total Gross 
-    * The genres that produce (on average the are **Animation, Adventure, and Sci-Fi**.
-* Popularity vs Revenue vs Genre
+* *Genre vs Total Gross*
+    * The genres that produce the largest total gross (on average) are **Animation, Adventure, and Sci-Fi**.
+* *Release Month vs Total Gross*
+    * On average, the number months have the highest average 
+* *Popularity vs Revenue vs Genre*
     * **Action** movies are the most frequently correlated to growth in popularity if there is a growth in revenue.
-* Movie Runtime
+* *Movie Runtime*
     * For all genres (generally speaking), an optimal run-time is under 120 minutes.
     * More 'serious' genres have a higher runtime limit (before their 'popularity' decreases)
         * For example, Drama films have the highest runtime threshold, at 220 minutes.
@@ -37,7 +39,7 @@ Data was analyzed from [IMDB](https://www.imdb.com/), [Box Office Mojo](https://
 
 IMDB, or The International Movie Data Base, is the internets primary source regarding general movie and television data. Since 1990 they have collected data from both professional and public sources, with much of their data being generated from their users activity.
 
-Kaggle is known as one of the most popular websites hosting datasets for use by data scientists, they also create their own content but much of their content is user generated. The main source of data for the Kaggle dataset used in this notebook is IMDB.
+Kaggle is known as one of the most popular websites hosting datasets for use by data scientists, they also create their own content but much of their content is user generated. The main source of data for the Kaggle dataset used in this notebook is IMDb.
 
 Box Office Mojo is an alternate source of data, and was bought by IMDB in 2008.
 
@@ -67,7 +69,7 @@ Using the top 5 Genres (determined by genres that had highest Average Total Gros
 
 ## Comparing Release Month vs. Total Gross
 
-The Summer Months have the highest average Total Gross.
+The summer months have the highest average Total Gross.
 
 <p>
     <img src="images/Averagegrosspergenre.png" width="450" height="300" />
@@ -91,9 +93,12 @@ In general, movies should stay shorter than 120 minutes.
 
 # Next Steps
 
-* Difference between Box Office Mojo Data and tnMovieBudgets was substantial-- ultimately, we used Box Office Mojo because {}, but the top five genres were *different* when usingn tnMovieBudget data.
+* Reconciling the differences in results from different datasets -- the same graphs with different data sometimes revealed different results.
 * Scraping marketing data would've been useful for Microsoft to consider *how* they should divvy up their production budget.
-* Examining studio, producer, and actor popularity and/or ROI.
+* Examining studio, producer, and actor popularity and their respective overall ROI.
+    * Analyzing Box Office success for individual studios to determine which studios have been the most successful at dominating the market.
+* Developing a more detailed understanding of [movie market](https://bombreport.com/articles/when-does-a-movie-break-even-at-the-box-office/), especially in the context of the effect of **[streaming services](https://www.nytimes.com/2019/05/14/business/media/disney-hulu-comcast.html) 
+* Further understanding of the cash flow in the movie market (i.e how movies can make money for the studio during AND [after](https://www.boxofficemojo.com/chart/top_lifetime_gross/?area=XWW) the release of a film.
 
 ## For More Information
 Please review our full analysis in our Jupyter Notebook or our presentation.
