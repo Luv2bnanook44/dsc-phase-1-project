@@ -65,7 +65,7 @@ Using the top 5 Genres (determined by genres that had highest Average Total Gros
 2. **Despicable Me 2** is the #1 Animated movie in 2013 that has the maximum Total Gross to Budget ratio.
 
 <p>
-    <img src="images/linechartgenreyears.png" width="400" height="300" />
+    <img src="images/linechartgenreyears.png" width="430" height="300" />
 </p>
 
 
